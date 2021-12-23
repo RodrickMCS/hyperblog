@@ -1,7 +1,17 @@
 body
 {
-    color: blue;
+    color: #333;
     text-align: center;
     font-family: "Arial";
 
+}
+#container
+{
+    widt: 70%;
+    padding: 1em;
+    margin: 0 auto;
+}
+#container h1
+{
+    font-size: 20px;
 }
