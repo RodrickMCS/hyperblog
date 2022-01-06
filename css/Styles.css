@@ -3,7 +3,19 @@ body
     color: green;
     text-align: center;
     font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 
+}
+#header
+{
+    background: blue url("../Header's logo/Technure.jpg") no-repeat;
+    box-shadow: 0px 2px 20px 0px rgba(red, green, blue, alpha);
+    color: white;
+    font-weight: bold;
+    margin 0;
+    padding: 0.5em, 0 0.5em 2em;
 }
 #container
 {
