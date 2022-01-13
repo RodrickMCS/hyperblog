@@ -5,4 +5,9 @@ Añadiendo linea extra +2
 Tomorrow we'll add a new line
 
 Experiment 1
+<<<<<<< HEAD
 Master 1Master 2
+=======
+Experiment 2
+Master 1
+>>>>>>> Exp 2
